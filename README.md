@@ -6,14 +6,15 @@
 
 ## 📚 Disciplina
 
-Banco de Dados e Data Warehouse - MAE016
-Universidade Federal do Rio de Janeiro (UFRJ)
+**Banco de Dados e Data Warehouse - MAE016** \
+**Universidade Federal do Rio de Janeiro (UFRJ)**
 
 ---
 
 ## 👥 Integrante
 
-João Valviesse Peclat Brito - 115065139
+**João Valviesse Peclat Brito - 115065139**
+
 ---
 
 ## 🎯 Objetivo do Projeto
