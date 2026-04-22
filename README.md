@@ -1,13 +1,13 @@
 # 📊 Projeto de Banco de Dados e Data Warehouse
 
-**Locadora de Veículos – UFRJ**
+**Locadora de Veículos**
 
 ---
 
 ## 📚 Disciplina
 
 **Banco de Dados e Data Warehouse - MAE016** \
-**Universidade Federal do Rio de Janeiro (UFRJ)**
+**Universidade Federal do Rio de Janeiro - UFRJ**
 
 ---
 
