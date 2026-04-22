@@ -1,6 +1,8 @@
 -- =========================================================
 -- Projeto: Sistema de Locadora de Veículos
 -- Arquivo: 02_constraints.sql
+-- Aluno: João Valviesse Peclat Brito
+-- DRE: 115065139
 -- Descrição: Constraints de integridade referencial e regras
 --             adicionais do modelo relacional
 -- =========================================================
@@ -212,15 +214,3 @@ ALTER TABLE MOVIMENTACAO_PATIO
     ADD CONSTRAINT ck_movimentacao_patio_diferente
     CHECK (id_patio_origem <> id_patio_destino);
 
--- =========================================================
--- OBSERVAÇÕES
--- =========================================================
--- 1. A constraint de validade da CNH usando CURRENT_DATE pode
---    não ser aceita por alguns SGBDs em CHECK.
---    Nesses casos, a regra deve ser implementada por trigger
---    ou validada pela aplicação.
---
--- 2. Caso o grupo queira maior aderência a um SGBD específico
---    (PostgreSQL, MySQL, SQL Server), este arquivo pode ser
---    ajustado na sintaxe final.
--- =========================================================

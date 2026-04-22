@@ -1,9 +1,9 @@
 -- =========================================================
 -- Projeto: Sistema de Locadora de Veículos
 -- Arquivo: 01_create_table.sql
+-- Aluno: João Valviesse Peclat Brito
+-- DRE: 115065139
 -- Descrição: Criação das tabelas base do modelo relacional
--- Observação: As constraints de chave estrangeira podem ser
--- complementadas em arquivo específico, se desejado.
 -- =========================================================
 
 CREATE TABLE EMPRESA (
