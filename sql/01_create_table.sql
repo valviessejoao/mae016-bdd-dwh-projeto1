@@ -1,8 +1,9 @@
 -- =========================================================
 -- Projeto: Sistema de Locadora de Veículos
 -- Arquivo: 01_create_table.sql
--- Aluno: João Valviesse Peclat Brito
--- DRE: 115065139
+-- Alunos: Breno Belaid Machado Wanderley - 121122313
+---------- Hygor Goulart Knust - 117124785
+---------- João Valviesse Peclat Brito - 115065139
 -- Descrição: Criação das tabelas base do modelo relacional
 -- =========================================================
 

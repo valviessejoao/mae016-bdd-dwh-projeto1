@@ -13,6 +13,8 @@
 
 ## 👥 Integrante
 
+**Breno Belaid Machado Wanderley - 121122313**
+**Hygor Goulart Knust - 117124785**
 **João Valviesse Peclat Brito - 115065139**
 
 ---
